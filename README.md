@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KrishnaLanka
-- 👀 I’m interested in Data Engineering, Analytics and Data Science.
-- 🌱 I’m currently learning Data Engineering skills and Deep Learning.
-- 💞️ I’m looking to collaborate on Image and Video classification problems.
+- 👀 I work in Data Engineering, Analytics, Data Science and Generative AI.
 - 📫 Contact me @ krishnachaitanyalv@hotmail.com
 
 <!---
